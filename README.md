@@ -6,7 +6,7 @@ Thank you for visiting our project!
 
 This document (README.md file) is a snapshot to give you some information and context of the project. Jump to one of the section below:
 * [What we are doing](#what-we-are-doing)
-* [Who we are](#who-we-are)
+* [Who we are](#who-we-are-/-list-of-contributors)
 
 ## What we are doing
 
@@ -17,7 +17,7 @@ The potrayal of life in the wild in media plays an important role in the public'
 ### The solution
 We use [insert the name of the movie] as an example to see how accurate fictional media portrays the biogeographical setting that it sets in.
 
-## Who we are / List of contributers:
+## Who we are / List of contributors
 - Amanda Liczner
 - Jenna LeBlanc - @phylojenie
 - Emily Kroft - @EKROFT
