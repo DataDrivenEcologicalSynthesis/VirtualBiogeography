@@ -9,3 +9,4 @@ List of contributers:
 >>>>>>> 32e4aa307eba48c224a24f99cbb60232dc341b98
 Jenna LeBlanc - @phylojenie
 Emily Kroft - @EKROFT
+Indigo Tran - @indigotran
