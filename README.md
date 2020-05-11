@@ -15,7 +15,7 @@ There are many pieces of media content out there that tried to incorporate eleme
 The potrayal of life in the wild in media plays an important role in the public's perception and attitude towards conservations and treatment of wildlife.
 
 ### The solution
-We use [insert the name of the movie] as an example to see how accurate fictional media portrays the biogeographical setting that it sets in.
+We use *Finding Nemo* as an example to see how accurate fictional media portrays the biogeography of a real place.
 
 ## Who we are / List of contributors
 - Amanda Liczner - @aliczner
