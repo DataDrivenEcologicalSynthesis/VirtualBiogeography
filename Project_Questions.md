@@ -9,4 +9,4 @@
 
 * Which species are we surveying for the purposes of this project?
   - Only fish? What about marine plants? Invertebrates? Only the characters with speaking roles?
-  -Maybe we can limit to animals only? I'm not sure, but I think some of the plant species in the film were imaginary or generic
+  - Maybe we can limit to animals only? I'm not sure, but I think some of the plant species in the film were imaginary or generic
