@@ -23,3 +23,4 @@ List of contributors (in no particular order):
 - Jenna LeBlanc - `@phylojenie`
 - Emily Kroft - `@EKROFT`
 - Indigo Tran - `@indigotran`
+- Étienne Lacroix-Carignan - `@superornitho`
