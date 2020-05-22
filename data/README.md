@@ -13,3 +13,4 @@ Datasheet to input species identifications from the Finding Nemo movie screensho
   SL = Shark's Lair
   SPO = South Pacific Ocean
 - Species = The species idenfied in the screenshot (Genus species)
+- Interaction = species interactions identified from the screenshot (if possible). 
