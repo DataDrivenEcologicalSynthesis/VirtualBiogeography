@@ -6,7 +6,9 @@ This list was built using the reference lists found [here](https://disney-animal
 
 ## Photographs
 
-All photographs sourced from Wikimedia Commons
+All photographs sourced from Wikimedia Commons with the exception of:
+
+- BF_Epinephelus-quinquefasciatus sourced from [Smithsonian Tropical Research Institute](https://biogeodb.stri.si.edu/caribbean/en/thefishes/species/4760/on)
 
 ### File names
 
