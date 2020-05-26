@@ -27,6 +27,6 @@
   - are they as common (?) in the movie as in real coral reef systems?
   - traits/behaviours that facilitate these interactions (stinging jelly fish, camoflague?) 
   
-  * How accurate are the species portrayals? 
+* How accurate are the species portrayals? 
   - Can image classification AI identify the species correctly (meaning the representations are fairly accurate) iNaturalist has this feature
   - are some traits missing/wrong/exaggerated (I'm thinking especially for sharks maybe, were their teeth drawn super huge to make them "scary")
