@@ -1,0 +1,66 @@
+taxon,common name,scientific name,photograph,DO count,EAC count,FG count,GBR count,T count,SH count,SL count,SPO count,screenshot
+invertebrate,Giant Squid,Architeuthis dux,yes,,,,,,,,,
+invertebrate,Common Starfish,Asterias rubens,yes,,,,,,,,,
+invertebrate,European Green Crab,Carcinus maenas,yes,,,,,,,,,
+invertebrate,Pacific Sea Nettle,Chrysaora fuscescens,yes,,,,,,,,,
+invertebrate,Lion's Mane Jellyfish,Cyanea capillata,yes,,,,,,,,,
+invertebrate,Humboldt Squid,Dosidicus gigas,yes,,,,,,,,,
+invertebrate,Sea Urchin,Echinoidea,yes,,,,,,,,,
+invertebrate,Antarctic Krill,Euphausia superba,yes,,,,,,,,,
+invertebrate,Squat Lobster,Galatheoidea,yes,,,,,,,,,SS_00-01-33_GBR.png/SS_00-01-34_GBR.png/SS_00-01-36_GBR.png/SS_00-01-37_GBR.png[unsure]
+invertebrate,Magnificent Sea Anemone,Heteractis magnifica,yes,,,,,,,,,SS_00-01-04_GBR.png
+invertebrate,Spanish Dancer,Hexabranchus sanguineas,yes,,,,1,,,,,SS_00-11-42_GBR
+invertebrate,American Lobster,Homarus americanus,yes,,,,,,,,,
+invertebrate,Common Lobster,Homarus gammarus,yes,,,,,,,,,
+invertebrate,Pacific Cleaner Shrimp,Lysmata amboinensis,yes,,,,,,,,,
+invertebrate,Eastern Pacific Red Octopus,Octopus rubescens,yes,,,,,,,,,
+invertebrate,Flapjack Octopus,Opisthoteuthis californiana,yes,,,,,,,,,
+invertebrate,Ochre Starfish,Pisaster ochraceus,yes,,,,,,,,,
+invertebrate,Sea Sponge,Porifera,yes,,,,,,,,,SS_00-01-30_GBR.png
+cartilaginous fish,Spotted Eagle Ray,Aetobatus narinari,yes,,,,,,,,,
+cartilaginous fish,Great White Shark,Carcharodon carcharias,yes,,,,,,,,,
+cartilaginous fish,Shortfin Mako Shark,Isurus oxyrinchus,yes,,,,,,,,,
+cartilaginous fish,Whale Shark,Rhincodon typus,yes,,,,,,,,,
+cartilaginous fish,Great Hammerhead,Sphyrna mokarran,yes,,,,,,,,,
+bony fish,Blue Groper,Achoerodus viridis,yes,,,,,,,,,
+bony fish,Common/Ocellaris Clownfish,Amphiprion ocellaris,yes,,,,,,,,,SS_00-01-12_GBR.png
+bony fish,Bigeye Trevally,Caranx sexfasciatus,yes,,,,,,,,,
+bony fish,Saddle Butterflyfish,Chaetodon ephippium,yes,,,,,,,,,
+bony fish,Threadfin Butterflyfish,Chaetodon auriga,yes,,,,,,,,,SS_00-01-30_GBR.png/SS_00-01-31_GBR.png/SS_00-01-33_GBR.png
+bony fish,Red-Tailed Butterflyfish,Chaetodon collare,yes,,,,,,,,,SS_00-01-30_GBR.png/SS_00-01-31_GBR.png/SS_00-01-33_GBR.png[unsure]
+bony fish,Ornate Butterflyfish,Chaetodon ornatissimus,yes,,,,,,,,,
+bony fish,Black-Axil Chromis,Chromis atripectoralis,yes,,,,,,,,,
+bony fish,Carpet Eel-Blenny,Congrogadus subdecens,yes,,,,,,,,,
+bony fish,Bluefin Trevally,Caranx melampygus,yes,,,,,,,,,
+bony fish,Humpback Grouper,Cromileptes altivelis,yes,,,,,,,,,
+bony fish,Yellow-Eyed Surgeonfish,Ctenochaetus strigosus,yes,,,,,,,,,SS_00-01-30_GBR.png/SS_00-01-31_GBR.png/SS_00-01-33_GBR.png/SS_00-01-34_GBR.png[unsure]
+bony fish,Blacktail Damselfish,Dascyllus melanurus,yes,,,,,,,,,
+bony fish,Long Spine Porcupinefish,Diodon holocanthus,yes,,,,,,,,,
+bony fish,Pacific Goliath Grouper,Epinephelus quinquefasciatus,yes,,,,,,,,,
+bony fish,Yellow Longnose Butterflyfish,Forcipiger flavissimus,yes,,,,,,,,,SS_00-01-33_GBR.png/SS_00-01-34_GBR.png/SS_00-01-36_GBR.png/SS_00-01-37_GBR.png
+bony fish,Royal Gramma Fish,Gramma loreto,yes,,,,,,,,,
+bony fish,Singular Bannerfish,Heniochus singularius,yes,,,,,,,,,SS_00-01-31_GBR.png/SS_00-01-33_GBR.png[unsure]
+bony fish,Common Seahorse,Hippocampus kuda,yes,,,,,,,,,SS_00-01-33_GBR.png/SS_00-01-34_GBR.png/SS_00-01-36_GBR.png
+bony fish,Barramundi,Lates calcarifer,yes,,,,,,,,,
+bony fish,Striped Trumpeter,Latris lineata,yes,,,,,,,,,
+bony fish,Humpback Anglerfish,Melanocetus johnsonii,yes,,,,,,,,,
+bony fish,Ocean Sunfish,Mola mola,yes,,,,,,,,,
+bony fish,Flame Hawkfish,Neocirrhitus armatus,yes,,,,,,,,,
+bony fish,Regal Blue Tang,Paracanthurus hepatus,yes,,,,,,,,,
+bony fish,Kelp Bass,Paralabrax clathratus,yes,,,,,,,,,
+bony fish,European Flounder/Flatfish,Platichthys flesus,yes,,,,,,,,,
+bony fish,Harlequin Sweetlips,Plectorhinchus chaetodonoides,yes,,,,,,,,,
+bony fish,Oriental Sweetlips,Plectorhinchus vittatus,yes,,,,,,,,,
+bony fish,Australian Sawtail,Prionurus microlepidotus,yes,,,,,,,,,
+bony fish,Royal Angelfish,Pygoplites diancathus,yes,,,,,,,,,
+bony fish,Rainbow Parrotfish,Scarus guacamaia,yes,,,,,,,,,SS_00-01-30_GBR.png/SS_00-01-31_GBR.png/SS_00-01-33_GBR.png
+bony fish,Spotted Scat,Scatophagus argus,yes,,,,,,,,,
+bony fish,Great Barracuda,Sphyraena barracuda,yes,,,,,,,,,
+bony fish,Swordfish,Xiphias gladius,yes,,,,,,,,,
+bony fish,Moorish Idol,Zanclus cornutus,yes,,,,,,,,,
+bony fish,Yellow Tang,Zebrasoma flavescens,yes,,,,,,,,,
+reptile,Green Sea Turtle,Chelonia mydas,yes,,,,,,,,,
+bird,Kelp Gull,Larus dominicanus,yes,,,,,,,,,
+bird,Brown Pelican,Pelecanus occidentalis,yes,,,,,,,,,
+mammal,Blue Whale,Balaenoptera musculus,yes,,,,,,,,,
+mammal,Humpback Whale,Megaptera novaeangliae,yes,,,,,,,,,
