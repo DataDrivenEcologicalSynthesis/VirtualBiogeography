@@ -1,0 +1,13 @@
+Refined simple question: Are the species shown in the film Finding Nemo accurate in that:
+  a) they would occur in the location they are shown in the film
+  b) they would occur in the same space as each other 
+
+Plan of attack:
+  1) use GBIF R package to download species range maps of each species shown
+  2) layer these maps in GIS to see which species should overlap
+  3) verify if this is what is shown in the film based on our screenshots
+ 
+End result:
+  If the species shown together in the film also have overlapping ranges, then we can say the film is accurate.
+  This will likely require a little extra reading on how far a clown fish could actually swim in open water.
+  
