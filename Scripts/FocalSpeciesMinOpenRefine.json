@@ -1,0 +1,435 @@
+[
+  {
+    "op": "core/row-removal",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "scientificName",
+          "expression": "value",
+          "columnName": "scientificName",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "BOLD:AAB5981",
+                "l": "BOLD:AAB5981"
+              }
+            },
+            {
+              "v": {
+                "v": "BOLD:AAB5982",
+                "l": "BOLD:AAB5982"
+              }
+            },
+            {
+              "v": {
+                "v": "BOLD:AAC0512",
+                "l": "BOLD:AAC0512"
+              }
+            },
+            {
+              "v": {
+                "v": "BOLD:AAC3227",
+                "l": "BOLD:AAC3227"
+              }
+            },
+            {
+              "v": {
+                "v": "BOLD:AAC0510",
+                "l": "BOLD:AAC0510"
+              }
+            },
+            {
+              "v": {
+                "v": "BOLD:AAC3753",
+                "l": "BOLD:AAC3753"
+              }
+            },
+            {
+              "v": {
+                "v": "BOLD:AAT9935",
+                "l": "BOLD:AAT9935"
+              }
+            },
+            {
+              "v": {
+                "v": "BOLD:ACE7604",
+                "l": "BOLD:ACE7604"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "description": "Remove rows"
+  },
+  {
+    "op": "core/fill-down",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "scientificName",
+          "expression": "value",
+          "columnName": "scientificName",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Acanthurus hepatus (Linnaeus, 1766)",
+                "l": "Acanthurus hepatus (Linnaeus, 1766)"
+              }
+            },
+            {
+              "v": {
+                "v": "Paracanthurus hepatus (Linnaeus, 1766)",
+                "l": "Paracanthurus hepatus (Linnaeus, 1766)"
+              }
+            },
+            {
+              "v": {
+                "v": "Paracanthurus theuthis (Lacepède, 1802)",
+                "l": "Paracanthurus theuthis (Lacepède, 1802)"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "scientificName",
+    "description": "Fill down cells in column scientificName"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "scientificName",
+          "expression": "value",
+          "columnName": "scientificName",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Acanthurus hepatus (Linnaeus, 1766)",
+                "l": "Acanthurus hepatus (Linnaeus, 1766)"
+              }
+            },
+            {
+              "v": {
+                "v": "Paracanthurus hepatus (Linnaeus, 1766)",
+                "l": "Paracanthurus hepatus (Linnaeus, 1766)"
+              }
+            },
+            {
+              "v": {
+                "v": "Paracanthurus theuthis (Lacepède, 1802)",
+                "l": "Paracanthurus theuthis (Lacepède, 1802)"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "scientificName",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Paracanthurus hepatus (Linnaeus, 1766)",
+          "Paracanthurus theuthis (Lacepède, 1802)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Paracanthurus hepatus"
+      }
+    ],
+    "description": "Mass edit cells in column scientificName"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "scientificName",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Acanthurus hepatus (Linnaeus, 1766)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Paracanthurus hepatus"
+      }
+    ],
+    "description": "Mass edit cells in column scientificName"
+  },
+  {
+    "op": "core/row-removal",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "scientificName",
+          "expression": "value",
+          "columnName": "scientificName",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Aetobatus laticeps Duméril, 1865",
+                "l": "Aetobatus laticeps Duméril, 1865"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "description": "Remove rows"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "scientificName",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Aetobatus narinari (Euphrasen, 1790)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Aetobatus narinari"
+      }
+    ],
+    "description": "Mass edit cells in column scientificName"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "scientificName",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Amphiprion ocellaris Cuvier, 1830"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Amphiprion ocellaris"
+      }
+    ],
+    "description": "Mass edit cells in column scientificName"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "scientificName",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Forcipiger flavissimus Jordan & McGregor, 1898"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Forcipiger flavissimus"
+      }
+    ],
+    "description": "Mass edit cells in column scientificName"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "scientificName",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Hippocampus kuda Bleeker, 1852"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hippocampus kuda"
+      }
+    ],
+    "description": "Mass edit cells in column scientificName"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "scientificName",
+          "expression": "value",
+          "columnName": "scientificName",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Hippocampus kuda",
+                "l": "Hippocampus kuda"
+              }
+            },
+            {
+              "v": {
+                "v": "Hippocampus aterrimus Jordan & Snyder, 1902",
+                "l": "Hippocampus aterrimus Jordan & Snyder, 1902"
+              }
+            },
+            {
+              "v": {
+                "v": "Hippocampus taeniopterus Bleeker, 1852",
+                "l": "Hippocampus taeniopterus Bleeker, 1852"
+              }
+            },
+            {
+              "v": {
+                "v": "Hippocampus tristis Castelnau, 1872",
+                "l": "Hippocampus tristis Castelnau, 1872"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "scientificName",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Hippocampus kuda",
+          "Hippocampus tristis Castelnau, 1872",
+          "Hippocampus taeniopterus Bleeker, 1852",
+          "Hippocampus aterrimus Jordan & Snyder, 1902"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hippocampus kuda"
+      }
+    ],
+    "description": "Mass edit cells in column scientificName"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "scientificName",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Opisthoteuthis californiana Berry, 1949"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Opisthoteuthis californiana"
+      }
+    ],
+    "description": "Mass edit cells in column scientificName"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "scientificName",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Stoasodon narinari (Euphrasen, 1790)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Aetobatus narinari"
+      }
+    ],
+    "description": "Mass edit cells in column scientificName"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "scientificName",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Opisthoteuthis californiana"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Opisthoteuthis californiana"
+      }
+    ],
+    "description": "Mass edit cells in column scientificName"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "scientificName",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Teuthis hepatus Linnaeus, 1766"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Paracanthurus hepatus"
+      }
+    ],
+    "description": "Mass edit cells in column scientificName"
+  }
+]
