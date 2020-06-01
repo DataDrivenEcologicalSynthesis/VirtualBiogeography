@@ -24,9 +24,6 @@ GBRspp2<-occ_search(taxonKey=paste0(GBRkeys2, collapse=";"),hasCoordinate = TRUE
 GBR1<-data.frame(GBRspp1$data) #converts the output from a tibble to a dataframe, this allows conversion to csv file
 GBR2<-data.frame(GBRspp2$data)
 GBR3<-rbind.fill(GBR1, GBR2) #need rbind.fill because there are differen column names so rbind wont work
-GBR3<-subset(GBR3[,c(1:56, 57, 98)]) #dataset is too large to upload to removed alot of the unnecessary columns
+GBR3<-subset(GBR3[,c(1:4)]) #dataset is too large to upload to removed alot of the unnecessary columns
 
-write.csv(GBR3, "Databases/GBIFOccurrences/GBR_GBIFFULL.csv") #all columns saved
-
-focused<-focused<-subset(GBRdf[, 2:4])
-write.csv(focused, "Databases/GBIFOccurrences/GBR_GBIFMinimal.csv")
+write.csv(GBR3, "Databases/GBIFOccurrences/GBR_GBIFMin.csv") #file was too large to upload all columns so just uploading the min amount we need
