@@ -1,0 +1,840 @@
+[
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "scientificName",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Plectorhinchus chaetodonoides Lacépède, 1801",
+          "Plectorhinchus chaetodonoides lacepède, 1801"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Plectorhinchus chaetodonoides Lacépède, 1801"
+      }
+    ],
+    "description": "Mass edit cells in column scientificName"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "scientificName",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Heniochus singularius Smith & Radcliffe, 1911",
+          "Heniochus singularis Smith & Radcliffe, 1911"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Heniochus singularius Smith & Radcliffe, 1911"
+      },
+      {
+        "from": [
+          "Axinellidae",
+          "Axinellida"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Axinellidae"
+      },
+      {
+        "from": [
+          "Polymastiidae",
+          "Polymastiida"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Polymastiidae"
+      },
+      {
+        "from": [
+          "Scopalinida",
+          "Scopalinidae"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Scopalinidae"
+      },
+      {
+        "from": [
+          "Chondrillida",
+          "Chondrillidae"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Chondrillidae"
+      },
+      {
+        "from": [
+          "Plectorhynchus chaetodonoides (Lacepède, 1801)",
+          "Plectorhynchus chaetodontoides (Lacepède, 1801)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Plectorhynchus chaetodonoides (Lacepède, 1801)"
+      },
+      {
+        "from": [
+          "Tethyidae",
+          "Tethyida"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Tethyidae"
+      },
+      {
+        "from": [
+          "Halichondriidae",
+          "Halichondridae"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Halichondriidae"
+      },
+      {
+        "from": [
+          "Sphyraena putnamae Jordan & Seale, 1905",
+          "Sphyraena putnamiae Jordan & Seale, 1905"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Sphyraena putnamae Jordan & Seale, 1905"
+      }
+    ],
+    "description": "Mass edit cells in column scientificName"
+  },
+  {
+    "op": "core/row-removal",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "scientificName",
+          "expression": "value",
+          "columnName": "scientificName",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Acanthancora cyanocrypta (Laubenfels, 1930)",
+                "l": "Acanthancora cyanocrypta (Laubenfels, 1930)"
+              }
+            },
+            {
+              "v": {
+                "v": "Abyssocladia lakwollii Vacelet & Kelly, 2014",
+                "l": "Abyssocladia lakwollii Vacelet & Kelly, 2014"
+              }
+            },
+            {
+              "v": {
+                "v": "Aaptos tenta Kelly-Borges & Bergquist, 1994",
+                "l": "Aaptos tenta Kelly-Borges & Bergquist, 1994"
+              }
+            },
+            {
+              "v": {
+                "v": "Aaptos pernucleata (Carter, 1870)",
+                "l": "Aaptos pernucleata (Carter, 1870)"
+              }
+            },
+            {
+              "v": {
+                "v": "Aaptos globosa Kelly-Borges & Bergquist, 1994",
+                "l": "Aaptos globosa Kelly-Borges & Bergquist, 1994"
+              }
+            },
+            {
+              "v": {
+                "v": "Aaptos papillata (Keller, 1880)",
+                "l": "Aaptos papillata (Keller, 1880)"
+              }
+            },
+            {
+              "v": {
+                "v": "Abyssocladia Lévi, 1964",
+                "l": "Abyssocladia Lévi, 1964"
+              }
+            },
+            {
+              "v": {
+                "v": "Aaptos rosacea Kelly-Borges & Bergquist, 1994",
+                "l": "Aaptos rosacea Kelly-Borges & Bergquist, 1994"
+              }
+            },
+            {
+              "v": {
+                "v": "Aaptos Gray, 1867",
+                "l": "Aaptos Gray, 1867"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "description": "Remove rows"
+  },
+  {
+    "op": "core/row-removal",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "scientificName",
+          "expression": "value",
+          "columnName": "scientificName",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "BOLD:AAC3194",
+                "l": "BOLD:AAC3194"
+              }
+            },
+            {
+              "v": {
+                "v": "BOLD:AAC4004",
+                "l": "BOLD:AAC4004"
+              }
+            },
+            {
+              "v": {
+                "v": "BOLD:AAJ0256",
+                "l": "BOLD:AAJ0256"
+              }
+            },
+            {
+              "v": {
+                "v": "BOLD:AAD7473",
+                "l": "BOLD:AAD7473"
+              }
+            },
+            {
+              "v": {
+                "v": "BOLD:ABZ7179",
+                "l": "BOLD:ABZ7179"
+              }
+            },
+            {
+              "v": {
+                "v": "BOLD:ABY7194",
+                "l": "BOLD:ABY7194"
+              }
+            },
+            {
+              "v": {
+                "v": "BOLD:AAI6292",
+                "l": "BOLD:AAI6292"
+              }
+            },
+            {
+              "v": {
+                "v": "BOLD:AAB1540",
+                "l": "BOLD:AAB1540"
+              }
+            },
+            {
+              "v": {
+                "v": "BOLD:AAB9018",
+                "l": "BOLD:AAB9018"
+              }
+            },
+            {
+              "v": {
+                "v": "BOLD:AAC1139",
+                "l": "BOLD:AAC1139"
+              }
+            },
+            {
+              "v": {
+                "v": "BOLD:AAB2694",
+                "l": "BOLD:AAB2694"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "description": "Remove rows"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "scientificName",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Balistoides viridescens (Bloch & Schneider, 1801)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Balistoides viridescens"
+      }
+    ],
+    "description": "Mass edit cells in column scientificName"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "scientificName",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Chaetodon auriga Forsskål, 1775"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Chaetodon auriga"
+      }
+    ],
+    "description": "Mass edit cells in column scientificName"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "scientificName",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Chaetodon ephippium Cuvier, 1831"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Chaetodon ephippium"
+      }
+    ],
+    "description": "Mass edit cells in column scientificName"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "scientificName",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Chaetodon larvatus Cuvier, 1831"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Chaetodon larvatus"
+      }
+    ],
+    "description": "Mass edit cells in column scientificName"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "scientificName",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Chaetodon speculum Cuvier ex Kuhl & van Hasselt, 1831"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Chaetodon speculum"
+      }
+    ],
+    "description": "Mass edit cells in column scientificName"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "scientificName",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Chaetodontoplus conspicillatus (Waite, 1900)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Chaetodontoplus conspicillatus"
+      }
+    ],
+    "description": "Mass edit cells in column scientificName"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "scientificName",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Chelmon rostratus (Linnaeus, 1758)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Chelmon rostratus"
+      }
+    ],
+    "description": "Mass edit cells in column scientificName"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "scientificName",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Chromis atripectoralis Welander & Schultz, 1951"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Chromis atripectoralis"
+      }
+    ],
+    "description": "Mass edit cells in column scientificName"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "scientificName",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Acanthurus strigosus Bennett, 1828"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Ctenochaetus strigosus"
+      }
+    ],
+    "description": "Mass edit cells in column scientificName"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "scientificName",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Ctenochaetus strigosus (Bennett, 1828)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Ctenochaetus strigosus"
+      }
+    ],
+    "description": "Mass edit cells in column scientificName"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "scientificName",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Heniochus singularius Smith & Radcliffe, 1911"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Heniochus singularius"
+      }
+    ],
+    "description": "Mass edit cells in column scientificName"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "scientificName",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Heteractis magnifica (Quoy & Gaimard, 1833)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Heteractis magnifica"
+      }
+    ],
+    "description": "Mass edit cells in column scientificName"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "scientificName",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Hexabranchus sanguineus (Rüppell & Leuckart, 1830)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hexabranchus sanguineus"
+      }
+    ],
+    "description": "Mass edit cells in column scientificName"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "scientificName",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Plectorhinchus chaetodonoides Lacépède, 1801"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Plectorhinchus chaetodonoides"
+      }
+    ],
+    "description": "Mass edit cells in column scientificName"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "scientificName",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Plectorhinchus chaetodontoides Lacepède, 1801"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Plectorhinchus chaetodontoides"
+      }
+    ],
+    "description": "Mass edit cells in column scientificName"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "scientificName",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Plectorhynchus chaetodonoides (Lacepède, 1801)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Plectorhynchus chaetodonoides"
+      }
+    ],
+    "description": "Mass edit cells in column scientificName"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "scientificName",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Plectorhinchus chaetodonoides"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Plectorhinchus chaetodonoides"
+      }
+    ],
+    "description": "Mass edit cells in column scientificName"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "scientificName",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Plectorhinchus chaetodontoides"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Plectorhinchus chaetodonoides"
+      }
+    ],
+    "description": "Mass edit cells in column scientificName"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "scientificName",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Plectorhynchus chaetodonoides"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Plectorhinchus chaetodonoides"
+      }
+    ],
+    "description": "Mass edit cells in column scientificName"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "scientificName",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Poecilopsetta plinthus (Jordan & Starks, 1904)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Poecilopsetta plinthus"
+      }
+    ],
+    "description": "Mass edit cells in column scientificName"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "scientificName",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Alaeops plinthus Jordan & Starks, 1904"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Poecilopsetta plinthus"
+      }
+    ],
+    "description": "Mass edit cells in column scientificName"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "scientificName",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Poecilopsetta megalepis Fowler, 1934"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Poecilopsetta plinthus"
+      }
+    ],
+    "description": "Mass edit cells in column scientificName"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "scientificName",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Pygoplites diacanthus (Boddaert, 1772)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Pygoplites diacanthus"
+      }
+    ],
+    "description": "Mass edit cells in column scientificName"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "scientificName",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Holacanthus diacanthus (Boddaert, 1772)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Pygoplites diacanthus"
+      }
+    ],
+    "description": "Mass edit cells in column scientificName"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "scientificName",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Scarus guacamaia Cuvier, 1829"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Scarus guacamaia"
+      }
+    ],
+    "description": "Mass edit cells in column scientificName"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "scientificName",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Sphyraena putnamae Jordan & Seale, 1905"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Sphyraena putnamae"
+      }
+    ],
+    "description": "Mass edit cells in column scientificName"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "scientificName",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Sphyraena bleekeri Williams, 1959"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Sphyraena putnamae"
+      }
+    ],
+    "description": "Mass edit cells in column scientificName"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "scientificName",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Zebrasoma flavescens (Bennett, 1828)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Zebrasoma flavescens"
+      }
+    ],
+    "description": "Mass edit cells in column scientificName"
+  }
+]
