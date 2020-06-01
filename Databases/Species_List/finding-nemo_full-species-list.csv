@@ -9,32 +9,32 @@ invertebrate,Sea Urchin,Echinoidea,yes,,,,,,,,,
 invertebrate,Antarctic Krill,Euphausia superba,yes,,,,,,,,1,SS_01-06-51_SPO.PNG
 invertebrate,Squat Lobster,Galatheoidea,yes,,,,1,,,,,SS_00-01-33_GBR.png/SS_00-01-34_GBR.png/SS_00-01-36_GBR.png/SS_00-01-37_GBR.png[unsure]
 invertebrate,Magnificent Sea Anemone,Heteractis magnifica,yes,,,,1,,,,,SS_00-01-04_GBR.png
-invertebrate,Spanish Dancer,Hexabranchus sanguineas,yes,,,,1,,,,,SS_00-11-42_GBR
+invertebrate,Spanish Dancer,Hexabranchus sanguineas,yes,,,,1,,,,,SS_00-11-42_GBR.png [3-unid]/SS_00-11-44_GBR [4-unid]
 invertebrate,American Lobster,Homarus americanus,yes,,,,,,,,1,SS_00-56-44_SPO.PNG
 invertebrate,Common Lobster,Homarus gammarus,yes,,,,,,,,,
 invertebrate,Pacific Cleaner Shrimp,Lysmata amboinensis,yes,1,,,,,1,,,SS_00-27-19_DO.PNG/SS_01-33-20_SH.PNG
 invertebrate,Eastern Pacific Red Octopus,Octopus rubescens,yes,,,,,,,,,
 invertebrate,Flapjack Octopus,Opisthoteuthis californiana,yes,,,,,,,,,
 invertebrate,Ochre Starfish,Pisaster ochraceus,yes,1,,,,,1,,,SS_00-26-55_DO.PNG/SS_01-33-20_SH.PNG
-invertebrate,Sea Sponge,Porifera,yes,,,,1,,,,,SS_00-01-30_GBR.png
+invertebrate,Sea Sponge,Porifera,yes,,,,1,,,,1,SS_00-01-30_GBR.png
 invertebrate,Green Spot Mandarin,Synchiropus picturatus,yes,,,,,1,,1,,SS_00-21-05_SL.PNG/SS_01-40-12_credit_T.PNG
-cartilaginous fish,Spotted Eagle Ray,Aetobatus narinari,yes,,,,1,,,,,SS_00-10-08_GBR.PNG
+cartilaginous fish,Spotted Eagle Ray,Aetobatus narinari,yes,,,,1,,,,,SS_00-10-08_GBR.PNG/SS_00-11-47_GBR [2-unid]/SS_00-11-52_GBR.PNG[4-unid]/SS_00-12-02_GBR.PNG[9-unid]
 cartilaginous fish,Great White Shark,Carcharodon carcharias,yes,,,,,,,1,1,SS_00-19-00_SPO.PNG/SS_00-20-34_SL.PNG
 cartilaginous fish,Shortfin Mako Shark,Isurus oxyrinchus,yes,,,,,,,1,,SS_00-20-34_SL.PNG
 cartilaginous fish,Whale Shark,Rhincodon typus,yes,,,,,,,,,
 cartilaginous fish,Great Hammerhead,Sphyrna mokarran,yes,,,,,,,1,,SS_00-20-34_SL.PNG
 bony fish,Blue Groper,Achoerodus viridis,yes,,,,,,,,,
-bony fish,Common/Ocellaris Clownfish,Amphiprion ocellaris,yes,1,,,1,1,1,1,1,SS_00-01-12_GBR.png/SS_00-19-00_SPO.PNG/SS_00-26-48_DO.PNG/SS_00-34-13_T.PNG/SS_00-40-37_SPO.PNG[1genereric-moonfish]/SS_01-17-34_SH.PNG
+bony fish,Common/Ocellaris Clownfish,Amphiprion ocellaris,yes,1,,,1,1,1,1,1,SS_00-01-12_GBR.png/SS_00-19-00_SPO.PNG/SS_00-26-48_DO.PNG/SS_00-34-13_T.PNG/SS_00-40-37_SPO.PNG[1genereric-moonfish]/SS_01-17-34_SH.PNG/SS_00-16-33_SPO(2).PNG[5-unid]/SS_00-16-33_SPO.PNG[1-unid]/SS_00-16-37_SPO.PNG[1-unid]/SS_00-17-09_SPO.PNG[4-unid]/SS_00-17-11_SPO.PNG[4-unid]
 bony fish,Titan Triggerfish,Balistoides viridescens,no,,,,1,,,,,SS_00-11-21_GBR.PNG
 bony fish,Bigeye Trevally,Caranx sexfasciatus,yes,,,,,,,,,
 bony fish,Saddle Butterflyfish,Chaetodon ephippium,yes,,,,1,,,,,SS_00-10-47_GBR.PNG
-bony fish,Threadfin Butterflyfish,Chaetodon auriga,yes,,,,1,,,,,SS_00-01-30_GBR.png/SS_00-01-31_GBR.png/SS_00-01-33_GBR.png
+bony fish,Threadfin Butterflyfish,Chaetodon auriga,yes,,,,1,,,,1,SS_00-01-30_GBR.png/SS_00-01-31_GBR.png/SS_00-01-33_GBR.png
 bony fish,Red-Tailed Butterflyfish,Chaetodon collare,yes,,,,,,,,,
-bony fish,Ornate Butterflyfish,Chaetodon ornatissimus,yes,,,,,,,,,
-bony fish,Orangeface Butterflyfish,Chaetodon larvatus,no,,,,1,,,,,SS_00-01-30_GBR.png
-bony fish,Ovalspot Butterflyfish,Chaetodon speculum,no,,,,1,,,,,SS_00-07-40_GBR.PNG
-bony fish,Conspicuous Angelfish,Chaetodontoplus conspicillatus,no,,,,1,,,,,SS_00-07-40_GBR.PNG
-bony fish,Long-beaked Coralfish,Chelmon rostratus,no,,,,1,,,,,SS_00-08-04_GBR.PNG
+bony fish,Ornate Butterflyfish,Chaetodon ornatissimus,yes,,,,1,,,,,SS_00-11-43_GBR
+bony fish,Orangeface Butterflyfish,Chaetodon larvatus,yes,,,,1,,,,,SS_00-01-30_GBR.png
+bony fish,Ovalspot Butterflyfish,Chaetodon speculum,yes,,,,1,,,,,SS_00-07-40_GBR.PNG
+bony fish,Conspicuous Angelfish,Chaetodontoplus conspicillatus,yes,,,,1,,,,,SS_00-07-40_GBR.PNG
+bony fish,Long-beaked Coralfish,Chelmon rostratus,yes,,,,1,,,,,SS_00-08-04_GBR.PNG/SS_00-11-49_GBR(2).PNG[4-unid]/SS_00-11-50_GBR(2).PNG[3-unid]
 bony fish,Black-Axil Chromis,Chromis atripectoralis,yes,,,,1,,,,,SS_00-07-40_GBR.PNG
 bony fish,Carpet Eel-Blenny,Congrogadus subdecens,yes,,,,,,,,,
 bony fish,Bluefin Trevally,Caranx melampygus,yes,,,,,,,,,
@@ -43,7 +43,7 @@ bony fish,Yellow-Eyed Surgeonfish,Ctenochaetus strigosus,yes,,,,1,,,,,SS_00-01-3
 bony fish,Blacktail Damselfish,Dascyllus melanurus,yes,1,,,,,1,,,SS_00-26-48_DO.PNG/SS_01-33-20_SH.PNG
 bony fish,Long Spine Porcupinefish,Diodon holocanthus,yes,1,,,,,1,,,SS_00-26-48_DO.PNG/SS_01-33-20_SH.PNG
 bony fish,Pacific Goliath Grouper,Epinephelus quinquefasciatus,yes,,,,,,,,,
-bony fish,Yellow Longnose Butterflyfish,Forcipiger flavissimus,yes,,,,1,,,,,SS_00-01-33_GBR.png/SS_00-01-34_GBR.png/SS_00-01-36_GBR.png/SS_00-01-37_GBR.png
+bony fish,Yellow Longnose Butterflyfish,Forcipiger flavissimus,yes,,,,1,,,,1,SS_00-01-33_GBR.png/SS_00-01-34_GBR.png/SS_00-01-36_GBR.png/SS_00-01-37_GBR.png
 bony fish,Royal Gramma Fish,Gramma loreto,yes,1,,,,,1,,,SS_00-26-48_DO.PNG/SS_01-33-20_SH.PNG
 bony fish,Singular Bannerfish,Heniochus singularius,yes,,,,1,,,,,SS_00-01-31_GBR.png/SS_00-01-33_GBR.png[unsure]
 bony fish,Common Seahorse,Hippocampus kuda,yes,,,,1,,,,,SS_00-01-33_GBR.png/SS_00-01-34_GBR.png/SS_00-01-36_GBR.png
@@ -52,7 +52,7 @@ bony fish,Striped Trumpeter,Latris lineata,yes,,,,,,,,,
 bony fish,Humpback Anglerfish,Melanocetus johnsonii,yes,,,,,1,,,,SS_00-34-13_T.PNG
 bony fish,Ocean Sunfish,Mola mola,yes,,,,,,,,,
 bony fish,Flame Hawkfish,Neocirrhitus armatus,yes,,,,,,,,,
-bony fish,Regal Blue Tang,Paracanthurus hepatus,yes,1,,,1,1,1,1,,SS_00-20-52_SL.PNG/SS_00-34-13_T.PNG/SS_01-17-34_SH.PNG
+bony fish,Regal Blue Tang,Paracanthurus hepatus,yes,1,,,1,1,1,1,1,SS_00-16-39_SPO.PNG[7-unid]/SS_00-16-48_SPO.PNG[4-unid]/SS_00-20-52_SL.PNG/SS_00-34-13_T.PNG/SS_01-17-34_SH.PNG
 bony fish,Kelp Bass,Paralabrax clathratus,yes,,,,,,,,,
 bony fish,Harlequin Sweetlips,Plectorhinchus chaetodonoides,yes,,,,1,,,,,SS_00-07-51_GBR.PNG
 bony fish,Oriental Sweetlips,Plectorhinchus vittatus,yes,,,,,,,,,
@@ -71,4 +71,4 @@ bird,Brown Pelican,Pelecanus occidentalis,yes,1,,,,,1,,1,SS_00-25-26_SPO.PNG/SS_
 mammal,Blue Whale,Balaenoptera musculus,yes,,,,,,,,,
 mammal,Humpback Whale,Megaptera novaeangliae,yes,,,,,,1,,1,SS_01-06-51_SPO.PNG/SS_01-08-55_SH.PNG/SS_01-13-48_SH.PNG
 mammal,Common bottlenose dolphin,Tursiops truncatus,yes,,,,,,,,1,SS_00-56-58_SPO.PNG
-unidentifiable,NA,NA,no,,,,,,,,,SS_00-56-38_SPO.PNG[2-unid]/SS_01-08-36_SH.PNG[1-unid]/SS_01-08-39_SH.PNG[6-unid]/SS_01-08-44_SH.PNG[1-unid]/SS_01-08-46_SH.PNG[2-unid]/SS_01-33-36_SPO.PNG[1-unid-moonfish]/SS_01-39-37_credit.PNG[1-id-mikeWazowski]
+unidentifiable,NA,NA,no,,,,,,,,,SS_00-56-38_SPO.PNG[2-unid]/SS_01-08-36_SH.PNG[1-unid]/SS_01-08-39_SH.PNG[6-unid]/SS_01-08-44_SH.PNG[1-unid]/SS_01-08-46_SH.PNG[2-unid]/SS_01-33-36_SPO.PNG[1-unid-moonfish]/SS_01-39-37_credit.PNG[1-id-mikeWazowski]/SS_00-11-49_GBR.PNG[5-unid]
