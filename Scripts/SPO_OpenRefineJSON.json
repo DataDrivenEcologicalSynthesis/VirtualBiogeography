@@ -1,0 +1,422 @@
+[
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "scientificName",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Cyanea capillata (Linnaeus, 1758)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cyanea capillata"
+      }
+    ],
+    "description": "Mass edit cells in column scientificName"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "scientificName",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Cyanea arctica Peron & Lesueur"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cyanea capillata"
+      }
+    ],
+    "description": "Mass edit cells in column scientificName"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "scientificName",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Euphasia superba Dana, 1852"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Euphasia superba"
+      }
+    ],
+    "description": "Mass edit cells in column scientificName"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "scientificName",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Euphausia superba Dana, 1850"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Euphausia superba"
+      }
+    ],
+    "description": "Mass edit cells in column scientificName"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "scientificName",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Euphausia superba"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Euphausia superba"
+      }
+    ],
+    "description": "Mass edit cells in column scientificName"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "scientificName",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Euphasia superba"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Euphausia superba"
+      }
+    ],
+    "description": "Mass edit cells in column scientificName"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "scientificName",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Homarus americanus H.Milne Edwards, 1837"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Homarus americanus"
+      }
+    ],
+    "description": "Mass edit cells in column scientificName"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "scientificName",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Larus dominicanus dominicanus"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Larus dominicanus"
+      }
+    ],
+    "description": "Mass edit cells in column scientificName"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "scientificName",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Larus dominicanus Lichtenstein, 1823"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Larus dominicanus"
+      }
+    ],
+    "description": "Mass edit cells in column scientificName"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "scientificName",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Megaptera nodosa (Bonnaterre, 1789)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Megaptera novaeangliae"
+      }
+    ],
+    "description": "Mass edit cells in column scientificName"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "scientificName",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Megaptera novaeangliae (Borowski, 1781)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Megaptera novaeangliae"
+      }
+    ],
+    "description": "Mass edit cells in column scientificName"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "scientificName",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Megaptera novaeangliae (Brisson, 1762)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Megaptera novaeangliae"
+      }
+    ],
+    "description": "Mass edit cells in column scientificName"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "scientificName",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Megaptera novaeangliae australis (Lesson, 1828)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Megaptera novaeangliae"
+      }
+    ],
+    "description": "Mass edit cells in column scientificName"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "scientificName",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Tursiops truncantus Montagu, 1821"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Tursiops truncantus"
+      }
+    ],
+    "description": "Mass edit cells in column scientificName"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "scientificName",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Tursiops truncatus (Montagu, 1821)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Tursiops truncatus"
+      }
+    ],
+    "description": "Mass edit cells in column scientificName"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "scientificName",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Tursiops truncantus"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Tursiops truncatus"
+      }
+    ],
+    "description": "Mass edit cells in column scientificName"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "scientificName",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Tursiops truncatus (Gray, 1866)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Tursiops truncatus"
+      }
+    ],
+    "description": "Mass edit cells in column scientificName"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "scientificName",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Tursiops truncatus gillii Dall, 1873"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Tursiops truncatus"
+      }
+    ],
+    "description": "Mass edit cells in column scientificName"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "scientificName",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Tursiops truncatus ponticus Barabash-Nikiforov, 1940"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Tursiops truncatus"
+      }
+    ],
+    "description": "Mass edit cells in column scientificName"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "scientificName",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Tursiops truncatus truncatus"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Tursiops truncatus"
+      }
+    ],
+    "description": "Mass edit cells in column scientificName"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "scientificName",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Xiphias gladius Linnaeus, 1758"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Xiphias gladius"
+      }
+    ],
+    "description": "Mass edit cells in column scientificName"
+  }
+]
