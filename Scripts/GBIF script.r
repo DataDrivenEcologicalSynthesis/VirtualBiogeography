@@ -20,6 +20,8 @@ focused<-focused<-subset(focaldf[, 2:4]) #subsetting the original dataframe to j
 
 write.csv(focused, "Databases/GBIFOccurrences/FocalSpeciesGBIFMinimal.csv") #csv file of occurrences by species names and lat/longs only
 
+##Example to pull records from a specific polygon i.e. around AUS
+focalsp<-occ_search(taxonKey=paste0(focalkeys, collapse=";"),hasCoordinate = TRUE, hasGeospatialIssue = FALSE, limit=100000, geometry ="POLYGON((97 -50, -153 -50, -153 16, 97 16, 97 -50))")
 
 ##Example of getting the data for one species at a time
 key<-name_suggest(q="Amphiprion ocellaris", rank="species")$key[1] #searches sp name ensures its correct and returns the first value which is the taxon key needed in the next line
